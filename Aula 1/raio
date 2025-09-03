@@ -1,0 +1,5 @@
+pi = 314159
+raio = 5
+
+a = 3,14159*raio**2
+Print a
