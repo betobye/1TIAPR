@@ -1,5 +1,6 @@
-pi = 314159
+PI = 3.14159
 raio = 5
 
-a = 3,14159*raio**2
-Print a
+area = PI * raio ** 2
+print(f" Area da circunferencia do raio é " {raio} é {area:.2f}")
+      
