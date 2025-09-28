@@ -1,0 +1,6 @@
+numero = input("Digite um número: ")
+numero = int(numero)
+if numero >= 18:
+    print("Você é maior de idade e pode assistir Xvideos.")
+else:
+    print("Você é menor de idade e não pode assistir Xvideos.")

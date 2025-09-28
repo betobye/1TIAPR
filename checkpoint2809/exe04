@@ -1,0 +1,6 @@
+numero = input("Digite sua nota: ")
+numero = float(numero)
+if numero >= 6:
+    print("Você está aprovado e pode assistir Xvideos.")
+else:
+    print("Você está reprovado e não pode assistir Xvideos.")
